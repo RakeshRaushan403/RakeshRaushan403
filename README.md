@@ -19,12 +19,40 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **advanced WordPress customization and React basics**
-- 🧰 Specializing in **WordPress, Elementor, HTML, CSS, JavaScript, and PHP**
-- 💡 Love building **modern, responsive, and SEO-friendly websites**
-- 🔗 Portfolio: [rakesh-raushan.my-style.in](https://rakesh-raushan.my-style.in/)
-- 📫 Reach me at **rakeshraushan403.123@gmail.com**
-- ⚡ Fun fact: I enjoy turning creative ideas into interactive websites
+```jsx
+const RakeshRaushan = () => {
+  const [role, setRole] = useState("Web Developer");
+  const [learning, setLearning] = useState([
+    "Advanced WordPress",
+    "React Basics",
+  ]);
+
+  const stack = {
+    frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    cms: ["WordPress", "PHP", "WooCommerce", "MySQL"],
+    builders: ["Elementor", "Divi", "WPBakery"],
+  };
+
+  const contact = {
+    email: "rakeshraushan403.123@gmail.com",
+    portfolio: "https://rakesh-raushan.my-style.in",
+  };
+
+  return (
+    <Developer
+      name="Rakesh Raushan"
+      role={role}
+      currentlyLearning={learning}
+      techStack={stack}
+      funFact="I turn creative ideas into interactive websites 🚀"
+      contact={contact}
+      alwaysLearning={true}
+    />
+  );
+};
+
+export default RakeshRaushan;
+```
 
 ---
 
