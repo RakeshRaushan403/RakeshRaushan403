@@ -64,14 +64,6 @@
 
 ---
 
-### 🎮 A Little Fun
-
-<p align="center">
-  <img src="./tictactoe.svg" alt="Tic Tac Toe animation" width="320"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
