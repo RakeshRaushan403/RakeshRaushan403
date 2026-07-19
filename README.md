@@ -71,32 +71,11 @@ export default RakeshRaushan;
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshraushan403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshraushan403&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshraushan403&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🚀 What I'm Working On
 
 - 🎨 Custom WordPress themes and plugins
 - ⚡ Website optimization for speed and SEO
 - 🤖 Exploring AI tools for faster design workflows
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakeshraushan403/rakeshraushan403/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
