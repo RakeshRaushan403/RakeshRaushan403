@@ -75,6 +75,7 @@ export default RakeshRaushan;
 
 - 🎨 Custom WordPress themes and plugins
 - ⚡ Website optimization for speed and SEO
+- ⚛️ Building projects with React and Next.js
 - 🤖 Exploring AI tools for faster design workflows
 
 ---
